@@ -27,7 +27,7 @@ def get_free_seat(userid, mapid):
                                                                                                            'mapid': mapid,
                                                                                                            'starttime': datetime.now().strftime("%Y-%m-%d %H:%M"),
                                                                                                            'endtime': datetime.now().strftime("%Y-%m-%d ") + '22:30',
-                                                                                                           'number': '0.9311735784410118'}, timeout=2)
+                                                                                                           'number': '0.9311735784410118'} )
     # print("所有的桌子", response.json()['seattables'])
     for item in response.json()['seattables']:
         if item['isbusy'] == 'false':
@@ -36,7 +36,7 @@ def get_free_seat(userid, mapid):
                                                                                                                   'number': '0.21017312650888753',
                                                                                                                   'mapid': mapid,
                                                                                                                   'starttime': datetime.now().strftime("%Y-%m-%d %H:%M"),
-                                                                                                                  'endtime': datetime.now().strftime("%Y-%m-%d ") + '22:30'}, timeout=2)
+                                                                                                                  'endtime': datetime.now().strftime("%Y-%m-%d ") + '22:30'} )
             # print(response.json()['seats'])
             for item2 in response.json()['seats']:
                 if item2['state'] == '空闲':
@@ -70,7 +70,7 @@ def all_free_seat(userid):
                                            'userid': userid,
                                            'starttime': datetime.now().strftime("%Y-%m-%d %H:%M"),
                                            'endtime': datetime.now().strftime("%Y-%m-%d ") + '22:30',
-                                           'number': str(round(random.uniform(0, 1), 17))}, timeout=2)
+                                           'number': str(round(random.uniform(0, 1), 17))} )
             for item in response.json()['maparea']:
                 print(item['name'])
             print("空闲座位：")
