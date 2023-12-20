@@ -1,5 +1,22 @@
 <p><a href="https://github.com/JiZhiLieShou/Anyang-Institute-of-Technology-Library-Booking"><img width="100%" src="https://github.com/JiZhiLieShou/Anyang-Institute-of-Technology-Library-Booking/blob/main/%E9%BB%91%E5%A4%9C%E4%BD%BF%E8%80%85.webp" ></a></p>
+# 该项目旨在为预约提供便利，为考研人群提供支持。
 
+# 由于图书馆座位受到恶意抢座行为的影响，学长决策创建了此项目。
+
+# 鉴于图书馆预约系统算法的更新可能需要一段时间，因此我们暂停了对该项目的维护，但项目的代码和程序仍然保持高度可用。
+
+# ==同时呼吁使用者避免恶意占用他人位置。==
+
+此外，我还研发了一系列程序，这些功能旨在提升用户体验，确保系统的智能性和安全性。
+
+- 取消所有预约
+- 图书馆加密算法小工具
+- 座位监控
+- 循环卡位置（适用于赖床或不愿签到的用户）
+- 文字识别方式（可灵活拓展）
+- 查看随机座位
+- 预约座位（不带验证码）
+- 预约座位（带验证码）。
 ## 使用方式：
 
 1. 在information中填入你的信息
