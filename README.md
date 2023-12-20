@@ -1,4 +1,4 @@
-<p><a href="https://github.com/lyswhut/lx-music-desktop"><img width="100%" src="https://github.com/JiZhiLieShou/Anyang-Institute-of-Technology-Library-Booking/blob/main/%E9%BB%91%E5%A4%9C%E4%BD%BF%E8%80%85.webp" alt="lx-music UI"></a></p>
+<p><a href="https://github.com/JiZhiLieShou/Anyang-Institute-of-Technology-Library-Booking"><img width="100%" src="https://github.com/JiZhiLieShou/Anyang-Institute-of-Technology-Library-Booking/blob/main/%E9%BB%91%E5%A4%9C%E4%BD%BF%E8%80%85.webp" ></a></p>
 
 ## 使用方式：
 
