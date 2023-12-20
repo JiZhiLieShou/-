@@ -1,5 +1,6 @@
 <p><a href="https://github.com/JiZhiLieShou/Anyang-Institute-of-Technology-Library-Booking"><img width="100%" src="https://github.com/JiZhiLieShou/Anyang-Institute-of-Technology-Library-Booking/blob/main/%E9%BB%91%E5%A4%9C%E4%BD%BF%E8%80%85.webp" ></a></p>
-# 该项目旨在为预约提供便利，为考研人群提供支持。
+
+**该项目旨在为预约提供便利，为考研人群提供支持。**
 
 # 由于图书馆座位受到恶意抢座行为的影响，学长决策创建了此项目。
 
